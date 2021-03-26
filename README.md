@@ -1,7 +1,8 @@
 # SP 500 top 50 by 2 methods
 
-This is a dockerized jupyter notebooks instance that runs with miniconda and a
-few accompanying packages.
+A dockerized jupyter notebooks instance for computing top 50 stocks to buy
+determined through 2 simple methods. The code runs with miniconda and a few
+accompanying packages.
 
 ## Features
 
